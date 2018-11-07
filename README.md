@@ -13,19 +13,19 @@ Pre-requisites
 Screen shots
 --------------
 <div align="center">
-  <img src ="screen_shots/img1.png" width ="400">
+  <img src ="screen_shots/img1.png" width ="600">
 </div>
 
 <div align="center">
-  <img src ="screen_shots/img2.png" width ="400">
+  <img src ="screen_shots/img2.png" width ="600">
 </div>
 
 <div align="center">
-  <img src ="screen_shots/img3.png" width ="400">
+  <img src ="screen_shots/img3.png" width ="600">
 </div>
 
 <div align="center">
-  <img src ="screen_shots/img4.png" width ="400">
+  <img src ="screen_shots/img4.png" width ="600">
 </div>
 
 <div align="center">
