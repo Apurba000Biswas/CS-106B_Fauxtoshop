@@ -35,6 +35,6 @@ Screen shots
 
 ## Note
 
-###If you are a Stanford CS106B student, please don't see the code.
+### If you are a Stanford CS106B student, please don't see the code.
 
 By seeing the code will be violating the Stanford Honor code rules.
