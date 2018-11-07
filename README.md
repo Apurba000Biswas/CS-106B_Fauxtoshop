@@ -29,5 +29,10 @@ Screen shots
 </div>
 
 <div align="center">
-  <img src ="screen_shots/img5.png" width ="400">
+  <img src ="screen_shots/img5.png" width ="600">
 </div>
+
+Note
+--------------
+
+#####If you are a Stanford CS106B student, please don't see the code.By seeing the code will be violating the Stanford Honor code rules.
